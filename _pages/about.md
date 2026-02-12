@@ -11,13 +11,13 @@ I am a second year PhD candidate working on 3D Computer Vision, Vision Language 
 
 Projects
 ======
-Object Detection and Localization with Multi-agent Sensor Fusion
-Available Surface Detection
-3D Object Detection from Stereo
-Intelligent Humanoid Robot
-Music Genre Recognition
-Orientation Estimation by EKF Algorithm
-Sequential 3D Reconstruction
+- Object Detection and Localization with Multi-agent Sensor Fusion
+- Available Surface Detection
+- 3D Object Detection from Stereo
+- Intelligent Humanoid Robot
+- Music Genre Recognition
+- Orientation Estimation by EKF Algorithm
+- Sequential 3D Reconstruction
 
 Awards
 ======

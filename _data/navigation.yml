@@ -16,13 +16,13 @@ main:
     url: /marathon/    
     
   - title: "Photos"
-    url: /portfolio/
+    url: /photo/
         
   - title: "Hikings"
-    url: /year-archive/
+    url: /hiking/
 
   - title: "Trips"
-    url: /talks/ 
+    url: /trips/ 
     
   #- title: "CV"
     #url: /cv/

@@ -12,17 +12,17 @@ main:
 #    url: /publications/
    
 
-  - title: "Marathons"
-    url: /marathon/    
+  #- title: "Marathons"
+  #  url: /marathon/    
     
-  - title: "Photos"
-    url: /photo/
+  #- title: "Photos"
+   # url: /photo/
         
-  - title: "Hikings"
-    url: /hiking/
+  #- title: "Hikings"
+   # url: /hiking/
 
-  - title: "Trips"
-    url: /trip/ 
+  #- title: "Trips"
+   # url: /trip/ 
     
   #- title: "CV"
     #url: /cv/

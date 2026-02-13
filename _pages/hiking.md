@@ -9,5 +9,7 @@ author_profile: true
 Hikings
 ======
 * 2025	GR34 in France
-* 2022  Tour du Mont Blanc in France
-* 2019  The Kungsleden trail in Sweden
+* 2023  Tour du Mont Blanc in France, Italy, and Switzerland
+* 2021  The Kungsleden trail in Sweden
+* 2019  LinneMarschen in Sweden
+
